@@ -15,9 +15,10 @@
  - Data out   DO
  
 ## Gerbers
-  - zip packages provided for a single PCB board and a 20 pcb board.       
+  - [zip packages provided for a single PCB board and a 20 pcb board.](/gerbers)
  
-## KiCad files provided.       
+## KiCad files provided.    
+ - [Link to files](/cad)
 
 ## Images
 
