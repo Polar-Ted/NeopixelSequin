@@ -6,11 +6,23 @@
  
 ## PCB Dimensions
   - 3.8mm x 9mm           
- 
+<img src="https://github.com/Polar-Ted/NeopixelSequin/blob/main/images/sequin_pcb.png" height="480" >
+
 ## Gerbers
   - zip packages provided for a single PCB board and a 20 pcb board.       
  
 ## KiCad files provided.       
 
+## Images
+
+### PCB fit into Mini Steath Burner
 
 <img src="https://github.com/Polar-Ted/NeopixelSequin/blob/main/images/minsb_neo1.jpg" width="480">
+
+### Front
+
+<img src="https://github.com/Polar-Ted/NeopixelSequin/blob/main/images/neopixel_sequin_v5_1_pcb.jpg" width="480">
+
+### Back
+
+<img src="https://github.com/Polar-Ted/NeopixelSequin/blob/main/images/neopixel_sequin_v5_1_pcb_back.jpg" width="480">
