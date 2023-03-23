@@ -8,6 +8,12 @@
   - 3.8mm x 9mm           
 <img src="https://github.com/Polar-Ted/NeopixelSequin/blob/main/images/sequin_pcb.png" height="480" >
 
+## Pins
+ - +5v input  5v
+ - Ground     GND
+ - Data In    DI
+ - Data out   DO
+ 
 ## Gerbers
   - zip packages provided for a single PCB board and a 20 pcb board.       
  
