@@ -18,7 +18,7 @@
   - [zip packages provided for a single PCB board and a 20 pcb board.](/gerbers)
  
 ## KiCad files provided.    
- - [Link to files](/cad)
+ - [KiCad Files](/cad)
 
 ## Images
 
